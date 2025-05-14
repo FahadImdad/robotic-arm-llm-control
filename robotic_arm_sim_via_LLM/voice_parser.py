@@ -4,7 +4,7 @@ import json
 from openai import OpenAI
 
 # === Set your OpenAI API key ===
-client = OpenAI(api_key="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")  # Replace with your real API key
+client = OpenAI(api_key="Add API key here")  # Replace with your real API key
 
 # === Text-to-speech engine ===
 engine = pyttsx3.init()
